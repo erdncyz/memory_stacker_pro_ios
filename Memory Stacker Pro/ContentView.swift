@@ -31,18 +31,13 @@ struct ContentView: View {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleVersion") as? String ?? "-"
     }
 
-    private var appBundleID: String {
-        Bundle.main.bundleIdentifier ?? "-"
-    }
-
     private var aboutItems: [String] {
         [
             "Memory Stacker Pro, hızlı hafıza ve dikkat odaklı bir oyundur.",
             "Oyun içeriği memory-stacker.netlify.app üzerinden yüklenir.",
             "Bu uygulama iOS tarafında web oyunu native deneyimle birleştirir.",
             "Amaç, sırayı doğru hatırlayıp aşamaları tamamlamaktır.",
-            "Sürüm: \(appVersion) (Build \(appBuild))",
-            "Bundle ID: \(appBundleID)"
+            "Sürüm: \(appVersion) (Build \(appBuild))"
         ]
     }
 
