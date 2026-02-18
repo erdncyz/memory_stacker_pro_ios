@@ -1,7 +1,7 @@
 # App Store Metadata (TR)
 
 ## Uygulama Adı
-Memory Stacker Pro
+Mind Tower Pro
 
 ## Alt Başlık
 Hızlı hafıza oyunu ve yerel istatistikler
@@ -10,7 +10,7 @@ Hızlı hafıza oyunu ve yerel istatistikler
 Reflekslerini zorla, dizilimi hatırla ve hızını geliştir.
 
 ## Açıklama
-Memory Stacker Pro, odak ve kısa süreli hafıza becerilerini geliştirmeye yönelik hızlı bir oyun deneyimi sunar.
+Mind Tower Pro, odak ve kısa süreli hafıza becerilerini geliştirmeye yönelik hızlı bir oyun deneyimi sunar.
 
 Öne çıkanlar:
 - Hızlı tur yapısı ile akıcı hafıza oyunu
@@ -21,7 +21,7 @@ Memory Stacker Pro, odak ve kısa süreli hafıza becerilerini geliştirmeye yö
 Uygulama internet bağlantısı ile oyun içeriğini yükler.
 
 ## Anahtar Kelimeler
-hafiza, zeka oyunu, dikkat, refleks, bulmaca, memory, beyin egzersizi
+hafiza, zeka oyunu, dikkat, refleks, bulmaca, beyin egzersizi, zihinsel oyun
 
 ## Destek URL
 https://<github-kullanici-adi>.github.io/<repo-adi>/support.html

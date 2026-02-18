@@ -33,8 +33,8 @@ struct ContentView: View {
 
     private var aboutItems: [String] {
         [
-            "Memory Stacker Pro, hızlı hafıza ve dikkat odaklı bir oyundur.",
-            "Oyun içeriği memory-stacker.netlify.app üzerinden yüklenir.",
+            "Mind Tower Pro, hızlı hafıza ve dikkat odaklı bir oyundur.",
+            "Oyun içeriği internet üzerinden güvenli baglanti ile yuklenir.",
             "Bu uygulama iOS tarafında web oyunu native deneyimle birleştirir.",
             "Amaç, sırayı doğru hatırlayıp aşamaları tamamlamaktır.",
             "Sürüm: \(appVersion) (Build \(appBuild))"
@@ -112,7 +112,7 @@ struct ContentView: View {
                 case .about:
                     InfoListView(
                         title: "Uygulama Hakkında",
-                        subtitle: "Memory Stacker Pro",
+                        subtitle: "Mind Tower Pro",
                         icon: "info.circle.fill",
                         items: aboutItems
                     )
